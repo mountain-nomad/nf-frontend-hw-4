@@ -1,0 +1,5 @@
+.card-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    max-width: 20%;
+}
